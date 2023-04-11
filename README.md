@@ -1,4 +1,4 @@
-# python-projects
+# Power control using Tkinter
 
 
 Simple GUI based Power controller, we can shut down, restart, and log out the computer by clicking the button.
